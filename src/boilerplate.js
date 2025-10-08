@@ -9,13 +9,9 @@ function boilerplate(bodyContent = "        <!-- Start building your page here -
     <meta name="robots" content="index, follow">
     <link rel="icon" href="favicon.ico">
     <title>Document</title>
-    <style>
-        /* Minimal CSS Reset */
-        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: system-ui, sans-serif; background: #fafbfc; color: #222; min-height: 100vh; line-height: 1.6; }
-    </style>
 </head>
 <body>
+amabfff
 ${bodyContent}
 </body>
 </html>`;
